@@ -10,8 +10,6 @@ import com.anjula.pages.LoginPage;
 
 public class LoginTest extends BaseTest {
 
-
-
     @Test(priority =1)
     public void verifyLogin() throws IOException
     {
